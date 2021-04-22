@@ -5,7 +5,7 @@ export const images = [
     nameEs: "Islandia",
     namePt: "Islândia",
     urlDay:
-      "https://www.nationalgeographic.com/content/dam/travel/Guide-Pages/europe/Iceland/iceland_NationalGeographic_2168279.adapt.1900.1.jpg",
+      "https://imgur.com/FvIf0vq.png",
     urlNight:
       "https://hekla.com/blog/wp-content/uploads/2019/01/northern-lights-in-iceland-16.jpg",
   },
